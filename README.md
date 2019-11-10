@@ -1,4 +1,4 @@
 # ocaml-asai
 
-A collection of answers to the exercises from "プログラミングの基礎" written by
-浅井健一.
+<!-- prettier-ignore -->
+A collection of answers for exercise questions in 浅井健一's book "プログラミングの基礎".
