@@ -1,3 +1,3 @@
 # ocaml-asai
 
-A collection of answers for exercise questions in 浅井健一's book "プログラミングの基礎".
+Solutions to the exercises in 浅井健一's book "プログラミングの基礎".
